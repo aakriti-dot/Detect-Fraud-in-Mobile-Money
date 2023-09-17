@@ -1,8 +1,6 @@
 # Detect-Fraud-in-Mobile-Money
 
-There is a lack of public available datasets on financial services and specially in the emerging mobile money transactions domain. Financial datasets are important to many researchers and in particular to us performing research in the domain of fraud detection. Part of the problem is the intrinsically private nature of financial transactions, that leads to no publicly available datasets.
-
-We present a synthetic dataset generated using the simulator called PaySim as an approach to such a problem. PaySim uses aggregated data from the private dataset to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behaviour to later evaluate the performance of fraud detection methods.
+In the year 2020, $4 billion was lost across the world due to fraud in mobile money. Due to these substantial losses, it is critical to look into the situation in order to prevent fraud in the future. This project aims to provide more insight into fraud and find which machine learning algorithm works best in order to detect and prevent such frauds in the future. Five algorithms will be used in this project including Logistic Regression, K-nearest Neighbor, Naive Bayesian, XGBoost, and Random Forests. 
 
 Dataset Link : https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 
